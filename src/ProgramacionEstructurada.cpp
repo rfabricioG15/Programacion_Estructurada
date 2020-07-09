@@ -13,6 +13,7 @@ int main (){
     cout << "Para verificar que lo que haga funcione correctamente" << endl;
     cout << "Codigo para Github" << endl;
     // Ahora en teoria deberia aneseñarme que hubo un cambio en el codigo
+    // Ahora ya se creo el repsitorio remoto
 
 return 0;
 }
